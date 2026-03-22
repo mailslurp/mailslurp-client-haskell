@@ -1,0 +1,7 @@
+.openapi-generator-ignore
+README.md
+Setup.hs
+lib/MailSlurp/API.hs
+lib/MailSlurp/Types.hs
+mailslurp.cabal
+stack.yaml
